@@ -1,0 +1,5 @@
+title: Sree Kokkirala's Website
+description: "A personal website built using GitHub Pages and Jekyll"
+theme: jekyll-theme-cayman  # This is an example theme
+url: "https://sreekwork.github.io"
+baseurl: "" # Leave this blank for now
