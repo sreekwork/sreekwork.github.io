@@ -1,5 +1,36 @@
-title: Sree Kokkirala's Website
-description: "A personal website built using GitHub Pages and Jekyll"
-theme: jekyll-theme-cayman  # This is an example theme
-url: "https://sreekwork.github.io"
-baseurl: "" # Leave this blank for now
+# title: Sree Kokkirala's Website
+# description: "A personal website built using GitHub Pages and Jekyll"
+# theme: jekyll-theme-cayman  # This is an example theme
+# url: "https://sreekwork.github.io"
+# baseurl: "" # Leave this blank for now
+
+
+title: "Sree Kokkirala's Website"
+description: "Welcome to my personal website, built with Jekyll and hosted on GitHub Pages!"
+baseurl: ""
+url: "https://yourusername.github.io"
+theme: "minimal-mistakes-jekyll"
+
+author:
+  name: "Sree K Name"
+  email: "skokkirala@gmail.com"
+  github: "sreekwork"
+  linkedin: "https://www.linkedin.com/in/sree-k-95178ba3/"
+  #image: "/assets/images/your-photo.jpg"
+
+# Navigation settings
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about"
+  - title: "Blog"
+    url: "/blog"
+
+# Social Links
+social_links:
+  - icon: "github"
+    url: "https://github.com/sreekwork"
+  - icon: "linkedin"
+    url: "https://www.linkedin.com/in/sree-k-95178ba3/"
+ 
